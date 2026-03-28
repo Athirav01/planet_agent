@@ -1,6 +1,9 @@
 ## 🪐 Planet Agent
 
 > An intelligent multi-agent AI system built with **Google ADK** that answers questions about planets, moons, and space missions in our solar system — deployed live on **Google Cloud Run**.
+>
+<img width="1484" height="863" alt="Screenshot (330)" src="https://github.com/user-attachments/assets/825c33b1-1842-4e69-9321-f303c545714c" />
+
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://planet-guide-1013476993343.europe-west1.run.app)
 [![Built with ADK](https://img.shields.io/badge/Built_with-Google_ADK_1.14-34A853?style=for-the-badge&logo=google&logoColor=white)](https://google.github.io/adk-docs/)
