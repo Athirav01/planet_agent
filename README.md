@@ -91,7 +91,7 @@ planet_agent-main/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/planet_agent.git
+git clone https://github.com/Athirav01/planet_agent.git
 cd planet_agent
 ```
 
