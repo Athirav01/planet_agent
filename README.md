@@ -21,6 +21,9 @@ The system uses a **multi-agent pipeline** powered by Google's Agent Development
 2. **Planetary Researcher** gathers data using Wikipedia search tools
 3. **Response Formatter** synthesizes everything into an inspiring, professional mission briefing
 
+   <img width="1920" height="947" alt="Screenshot (331)" src="https://github.com/user-attachments/assets/abeeae86-2b7b-467e-a2b9-d777b772749c" />
+
+
 ---
 
 ## 🏗️ Architecture
